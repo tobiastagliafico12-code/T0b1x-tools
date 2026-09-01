@@ -19,6 +19,16 @@
 </p>
 
 > ### ⚠️ Uso Responsable
+> ### 🌐 Acceso Directo
+
+> **🚀 T0B1X TOOLS HUB V2 — LIVE**
+> 
+> **Link:** https://t0b1xtoolsv2.vercel.app/
+> 
+> `[SYS://INITIALIZED] // V2.4 // SECURE LINK ACTIVE`
+
+---
+
 
 ---
 
