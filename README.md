@@ -25,7 +25,7 @@
 > 
 > **Link:** https://t0b1xtoolsv2.vercel.app/
 > 
-> `[SYS://INITIALIZED] // V2.4 // SECURE LINK ACTIVE`
+> ` // V2.4 // `
 
 ---
 
@@ -132,6 +132,4 @@ Parte del proyecto fue desarrollada utilizando herramientas de inteligencia arti
   <b>Objetivo:</b> Aprendizaje, experimentación y consulta.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=⭐+Gracias+por+utilizar+T0B1X+Tools;Learn.+Experiment.+Build." alt="Thanks" />
-</p>
+### proyecto personal.
